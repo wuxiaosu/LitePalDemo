@@ -5,30 +5,18 @@ android {
     buildToolsVersion "25.0.0"
 
     defaultConfig {
-        applicationId "com.wuxiaosu.litepal_demo"
+        applicationId "com.wuxiaosu.litepaldemo"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            buildConfigField("String", "password", '"666666"')
-            resValue "string", "_versionName", "rc." + buildTime()
-        }
-
-        debug {
-            buildConfigField("String", "password", '"55555555"')
-            resValue "string", "_versionName", "beat." + buildTime()
         }
     }
-}
-
-def buildTime() {
-    return new Date().format("yyMMddHH")
 }
 
 dependencies {
