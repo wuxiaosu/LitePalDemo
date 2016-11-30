@@ -1,4 +1,4 @@
-package com.wuxiaosu.litepal_demo;
+package com.wuxiaosu.litepaldemo;
 
 import android.app.Application;
 

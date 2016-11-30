@@ -1,4 +1,4 @@
-package com.wuxiaosu.litepal_demo.adapter;
+package com.wuxiaosu.litepaldemo.adapter;
 
 import android.content.Context;
 import android.support.annotation.CallSuper;

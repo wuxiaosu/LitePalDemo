@@ -1,18 +1,19 @@
-package com.wuxiaosu.litepal_demo;
+package com.wuxiaosu.litepaldemo;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.wuxiaosu.litepal_demo.adapter.BaseAdapter;
-import com.wuxiaosu.litepal_demo.adapter.UserAdapter;
-import com.wuxiaosu.litepal_demo.model.User;
+import com.wuxiaosu.litepaldemo.adapter.BaseAdapter;
+import com.wuxiaosu.litepaldemo.adapter.UserAdapter;
+import com.wuxiaosu.litepaldemo.model.User;
 
 import org.litepal.crud.DataSupport;
 
@@ -38,6 +39,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Log.e("mie", "onCreate: " + getString(R.string._versionName));
         initView();
     }
 

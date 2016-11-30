@@ -20,7 +20,7 @@ dependencies {
     <version value="1" />
     <list>
         <!--根据model映射创建表-->
-        <mapping class="com.wuxiaosu.litepal_demo.model.User" />
+        <mapping class="com.wuxiaosu.litepaldemo.model.User" />
     </list>
     <!--将数据库文件存放在sd卡（/sdcard/Android/data/<package name>/files/databases），调试时使用（internal，external）-->
     <!--<storage value="external" />-->

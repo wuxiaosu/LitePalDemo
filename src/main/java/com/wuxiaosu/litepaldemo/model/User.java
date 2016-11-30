@@ -1,4 +1,4 @@
-package com.wuxiaosu.litepal_demo.model;
+package com.wuxiaosu.litepaldemo.model;
 
 import org.litepal.crud.DataSupport;
 

@@ -1,10 +1,10 @@
-package com.wuxiaosu.litepal_demo.adapter;
+package com.wuxiaosu.litepaldemo.adapter;
 
 import android.content.Context;
 import android.widget.TextView;
 
-import com.wuxiaosu.litepal_demo.R;
-import com.wuxiaosu.litepal_demo.model.User;
+import com.wuxiaosu.litepaldemo.R;
+import com.wuxiaosu.litepaldemo.model.User;
 
 import java.util.List;
 
