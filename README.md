@@ -29,7 +29,7 @@ dependencies {
 ## 3.配置LitePalApplication  
 酱紫：
 ```
-    <manifest>
+<manifest>
     <application android:name="org.litepal.LitePalApplication"
         ...
         >
@@ -40,7 +40,7 @@ dependencies {
 或者：  
 
 ```
-    <manifest>
+<manifest>
     <application android:name="org.litepal.MyOwnApplication"
         ...
         >
