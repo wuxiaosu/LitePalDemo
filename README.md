@@ -1,4 +1,4 @@
-# LitePal_demo
+# LitePalDemo
 郭大神写的数据库框架LitePal的基本使用demo，LitePal地址https://github.com/LitePalFramework/LitePal。  
 # 快速配置 
 ## 1.引入jia包 
