@@ -263,6 +263,6 @@ LitePal.deleteDatabase("newdb");
 ```
 更多详情郭大神博客http://blog.csdn.net/sinyu890807/article/category/2522725  
 LitePal地址https://github.com/LitePalFramework/LitePal  
-两篇郭大神的公众推送  
+两篇郭大神的公众号推送  
 http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236130&idx=1&sn=e4b5bb20ce0938a2db5b9b1007c54907&mpshare=1&scene=1&srcid=0114xkPUITeAh21XSV4jBitN#rd  
 http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237709&idx=1&sn=1e9ee99617b2cb8f00af9b35eb83a637&chksm=88639a62bf14137450f5c98ec245362a0fef36e1bae1eaf12081d52d8b0e60a2c299e1699593&mpshare=1&scene=1&srcid=0114VMD1LOKcEKquA3XDlIKN#rd
